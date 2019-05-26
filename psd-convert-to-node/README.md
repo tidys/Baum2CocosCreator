@@ -32,7 +32,7 @@ baum2CocosCreator
 
 ## How to use
 
-### Photoshop上での操作
+### Photoshop上的操作
 
 * psdを作ります。(psdの作り方参照)
 * File -> Scripts -> Baum2を選択し、中間ファイルの出力先を選択します。
