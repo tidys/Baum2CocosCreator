@@ -5,7 +5,7 @@
   "author": "Yu Peng",
   "main": "main.js",
   "main-menu": {
-    "Packages/PSD2Nodeパネル": {
+    "Packages/PSD2Node": {
       "message": "psd-convert-to-node:open-panel"
     }
   },
@@ -20,6 +20,7 @@
   "dependencies": {
     "@types/node": "^11.13.5",
     "@types/pngjs": "^3.3.2",
+    "lodash": "^4.17.11",
     "math.gl": "^2.3.1",
     "pngjs": "^3.4.0",
     "typescript": "^3.4.4"
